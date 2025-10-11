@@ -1,7 +1,8 @@
--------------------------00000000000body {
+body {
     color: white    ;
-    background: black;
+    background: rgb(86,7,12);
     margin: 0px;
+    font-family: "BBH Sans Bartle", sans-serif;
 }
 
 header {
